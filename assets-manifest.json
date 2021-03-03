@@ -1,0 +1,18 @@
+{
+  "homepage.png": "static/homepage-25634acda1ff5291f790ec714b241b05.png",
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/alerts.png": "static/alerts-cf86157a81abc8be5d3e9fe907431035.png",
+  "static/create-report.png": "static/create-report-f29dccd760ae13980b78fcb12f64f245.png",
+  "static/gps.png": "static/gps-0771fc45fae766e1765ae5fdb57e75e7.png",
+  "static/homepage.png": "static/homepage-e92e9720a199ed3d3f20544841d4a472.png",
+  "static/login.png": "static/login-bd9e05fcbc956fbbde22fa9bbfe8fc7d.png",
+  "static/modals.png": "static/modals-5a4a93e0f5876debb691f1fec1d17809.png",
+  "static/record-summary.png": "static/record-summary-d06de20749630d74416582218238b9d4.png",
+  "static/record-table.png": "static/record-table-cbf5e81cb8f84f56dfc6a7239ee93269.png",
+  "static/report.png": "static/report-3f78f7c9773ee139ee1ece04aeeb6424.png",
+  "static/srf.png": "static/srf-33b3f96e2cd4846a01f937de3190e9e9.png",
+  "static/tables.png": "static/tables-9ea9e5b0d7a317f8f5e55e3cb37452f7.png",
+  "static/tech-forms.png": "static/tech-forms-1c7a2abc2144badfe7f713ba64c44e8d.png",
+  "static/tech-portal.png": "static/tech-portal-adcfb2617d9f4637113c07873de20132.png"
+}
